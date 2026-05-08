@@ -27,4 +27,4 @@ Gerçekleştirilen Keşifçi Veri Analizi (EDA) ve modelleme sonucunda şu kriti
 
 1. **Yüksek Tahmin Gücü:** Kurulan Çoklu Lineer Regresyon modeli, satışlardaki değişimin **%90'ını** ($R^2 = 0.90$) açıklayabilmektedir.
 2. **En Verimli Kanallar:** Satışlar üzerinde en büyük pozitif etkiye sahip reklam kanallarının sırasıyla **TV** ve **Radyo** olduğu gözlemlenmiştir.
-3. **Bütçe Optimizasyonu (Özellik Seçimi):** Korelasyon analizi incelendiğinde, **Gazete** reklamlarının satışlar üzerinde neredeyse hiçbir anlamlı etkisi olmadığı tespit edilmiştir. Modelin başarısını düşürm
+3. **Bütçe Optimizasyonu (Özellik Seçimi):** Korelasyon analizi incelendiğinde, **Gazete** reklamlarının satışlar üzerinde neredeyse hiçbir anlamlı etkisi olmadığı tespit edilmiştir. Modelin başarısını düşürmemek ve sadeliği korumak adına Gazete verisi modelden çıkarılmış ve kaynakların TV/Radyo kanallarına kaydırılması önerilmiştir.
